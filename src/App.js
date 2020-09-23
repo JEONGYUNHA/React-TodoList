@@ -18,9 +18,9 @@ function App() {
       <TodoProvider>
         <GlobalStyle />
           <TodoTemplate>
-            <TodoHead/>
-            <TodoList/>
-            <TodoCreate/>
+          <TodoHead/>
+          <TodoList/>
+          <TodoCreate />
         </TodoTemplate>
       </TodoProvider>
     </>
